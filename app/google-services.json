@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3818814823",
+    "project_id": "modul-5--firestore",
+    "storage_bucket": "modul-5--firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3818814823:android:6e811146209f547cacc3c2",
+        "android_client_info": {
+          "package_name": "com.wahid.firestore_f55121022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3818814823-5f25bv8o5utpm2jpoiu4bhumbdu5e23b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPHvJxZVW5NmsZmEaw-_0Udo0NZP0R3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3818814823-5f25bv8o5utpm2jpoiu4bhumbdu5e23b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
